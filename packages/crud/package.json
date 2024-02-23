@@ -1,8 +1,8 @@
 {
   "name": "@8base-react/crud",
   "version": "1.7.3-alpha.0",
-  "repository": "https://github.com/8base/react-sdk",
-  "homepage": "https://github.com/8base/react-sdk/tree/master/packages/crud#readme",
+  "repository": "https://github.com/8base/8base-react-client-web",
+  "homepage": "https://github.com/8base/8base-react-client-web/tree/master/packages/crud#readme",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",

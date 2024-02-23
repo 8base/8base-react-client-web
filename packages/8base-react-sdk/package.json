@@ -1,7 +1,7 @@
 {
   "name": "8base-react-sdk",
   "version": "1.7.3-alpha.0",
-  "repository": "https://github.com/8base/react-sdk",
+  "repository": "https://github.com/8base/8base-react-client-web",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",

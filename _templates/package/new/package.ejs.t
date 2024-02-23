@@ -4,7 +4,7 @@ to: packages/<%= name %>/package.json
 {
   "name": "@8base-react/<%= name %>",
   "version": "<%= version %>",
-  "repository": "https://github.com/8base/react-sdk",
+  "repository": "https://github.com/8base/8base-react-client-web",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "scripts": {
